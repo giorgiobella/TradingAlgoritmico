@@ -1,1 +1,7 @@
 matplotlib
+statsmodels
+mpl_finance
+pandas_datareader
+bs4
+sklearn
+backtrader
