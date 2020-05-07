@@ -1,7 +1,6 @@
 matplotlib
 statsmodels
 mpl_finance
-mplfinance
 pandas_datareader
 bs4
 sklearn
