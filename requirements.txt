@@ -1,6 +1,5 @@
 matplotlib==3.2.2
 statsmodels
-mpl_finance
 mplfinance
 pandas_datareader
 bs4
