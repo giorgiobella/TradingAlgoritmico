@@ -1,4 +1,4 @@
-matplotlib
+matplotlib==3.2.2
 statsmodels==0.11.0
 mplfinance
 pandas_datareader
